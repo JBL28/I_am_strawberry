@@ -1,0 +1,8 @@
+pandas
+openpyxl
+streamlit
+st_multimodal_chatinput
+openai
+bokeh==2.4.3
+streamlit_bokeh_events
+gtts
